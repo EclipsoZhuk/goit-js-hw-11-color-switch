@@ -1,0 +1,23 @@
+* {
+    text-align: center;
+}
+button {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+        sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    padding: 10px 15px;
+    margin-right: 20px;
+    margin-top: 40px;
+    cursor: pointer;
+    border: 5px solid rgba(37, 54, 8, 0.74);
+    border-radius: 10px;
+    color: rgb(243, 225, 225);
+    background-color: rgb(111, 195, 111);
+}
+
+.is-active {
+    border: 5px solid rgba(75, 10, 10, 0.74);
+    color: rgb(243, 225, 225);
+    background-color: rgb(226, 21, 21);
+}
